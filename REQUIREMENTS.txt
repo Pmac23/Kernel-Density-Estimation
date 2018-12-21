@@ -1,0 +1,13 @@
+ 
+
+pyhton 3.6
+MNIST
+random
+numpy
+time
+pickle
+
+MNIST data set http://yann.lecun.com/exdb/mnist/
+Download train and test sets and place them under data\MNIST
+CIFAR-100 data set https://www.cs.toronto.edu/~kriz/cifar.html
+Download python version, unzip and place them under data/cifar-100-python
